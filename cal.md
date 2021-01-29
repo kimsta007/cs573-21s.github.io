@@ -41,6 +41,9 @@ Assigned: Assignment 0 - Course Survey
 Assigned: Assignment 1 - Hello World: GitHub and d3   
 
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EbzQvvDMN_pPsBpTgPmnqfsBGxgC3iwlXe3M3Sh5szmHRg?e=IAwVFq)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EbeSfGFA_0dLnQFHCU9eB38B9fWcx_8SqlnrRZX3139dlg?e=HJATpb)  
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/Ea3-jR9bCNVJoJw1pKiwLSwBS168InhGtLGFiPplOS2OMA?e=lUxI88)  
 
 
 
