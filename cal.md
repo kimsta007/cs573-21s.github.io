@@ -62,6 +62,9 @@ Topic: Data Representation
 Assigned: Assignment 2 - Data Visualization, 7 ways   
 Due: Assignment 0 -- 11:59pm   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EeX2G5ULFJJBvO36acu_pwQBs__776zj3jkkHPydlaIwfw?e=AYkhxr)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EbiSSc_FeWhKm4NPAM8d4goBtUItabwkD08z8j9inqhx9w?e=cK4AD6)  
+
 ### 04-Feb Thu   
 Topic: Lab/Workday on d3 patterns
 
