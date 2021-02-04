@@ -68,6 +68,9 @@ Due: Assignment 0 -- 11:59pm
 ### 04-Feb Thu   
 Topic: Lab/Workday on d3 patterns
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EcV-2Flq64xFgp7JVTDzIowB8yDTe-j3kfk_xSHdrY10nQ?e=zbCOoU)  
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ERj_kwS-aEtPo8d-q3YcVo4BQmTtNipjaqZma1UlKXdEjQ?e=voUUlw)  
+
 ### 05-Feb Fri   
 Due: Assignment 1 -- 11:59pm   
 
