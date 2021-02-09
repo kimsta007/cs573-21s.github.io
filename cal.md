@@ -81,11 +81,16 @@ Due: Assignment 1 -- 11:59pm
 
 Reading:   
 VAD Chapters 3-4   
-[Sketching designs using the Five Design-Sheet methodology](http://chrisheadleand.com/wp-content/papercite-data/pdf/roberts2015sketching.pdf)  
+[Sketching designs using the Five Design-Sheet methodology](http://eprints.lincoln.ac.uk/25880/7/25880%20FDS_vis2015_v10-Final.pdf)  
 [Design activity framework for visualization design](http://vis.cs.ucdavis.edu/vis2014papers/TVCG/papers/2191_20tvcg12-mckenna-2346331.pdf)
 
 ### 08-Feb Mon   
 Topic: Visualization Design   
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EVCgXXrEJUhMq0U-Jdp77TUBROLP6Vz_UvfLUtrvmPj0FA?e=ZwmYdC)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EZtiiIhKr1FDnkAsvTvxcFABuAPp8vZMa4JTEa4S8f-alw?e=hPddbA)  
+
+
 
 ### 11-Feb Thu   
 Topic: Lab/Workday on Visualization Design
