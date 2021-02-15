@@ -106,7 +106,7 @@ VAD Chapters 5
 [A nested process model for visualization design and validation](https://www.computer.org/csdl/trans/tg/2009/06/ttg2009060921-abs.html)  
 
 ### 15-Feb Mon   
-Topic: Task Abstraction   
+Topic: Visualization Design 2  
 
 ### 18-Feb Thu   
 Topic: A2 Workday   
