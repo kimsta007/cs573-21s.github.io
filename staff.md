@@ -16,5 +16,5 @@ Office Hours -> 3-4 @ Zoom
 
 TAs   
 Noelle Rakotondravony  
-Office Hours -> Mondays 3 - 4pm on Zoom [https://wpi.zoom.us/j/92676257183](https://wpi.zoom.us/j/92676257183) (you'll need to log into your wpi zoom account to access the link)     
+Office Hours -> Mondays 12 - 1pm on Zoom [https://wpi.zoom.us/j/92676257183](https://wpi.zoom.us/j/92676257183) (you'll need to log into your wpi zoom account to access the link)     
 
