@@ -108,6 +108,10 @@ VAD Chapters 5
 ### 15-Feb Mon   
 Topic: Task Abstraction   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXQXzTXgwDJIhFvgykSDOo4Bx_kSASQeonB8wc-KDzlW4w?e=Njnyo5)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ETxFgEX6rbFNgwkoNREj4ZEB_5-bSzDgiSFp2KiE45inRA?e=yOCwEf)  
+
+
 ### 18-Feb Thu   
 Topic: A2 Workday   
 
