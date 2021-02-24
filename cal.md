@@ -129,6 +129,10 @@ Reading: Chapters 6, 10
 Topic: Color
 Assigned: Assignment 3 -- Replicating a Classic Experiment    
 
+[Video Part 1](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EV_-E2DDy29KlRYhS9kvNtkBvszbKVhKdGNlIoVgCEASMg?e=NaJayK)  
+[Video Part 2](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EZ7RCb-bDUJOvnGVjaHYLhABvpLhB_yDZSakPTT0wniZ_g?e=mn01aA)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EaVAgbewLClCtAYEOZtwDUsBrz6FxQ_gRoHhytAdNmaFsA?e=Ziw2Zd)  
+
 ### 25-Feb Thu   
 Topic: Color Lab (Redesign)
 
