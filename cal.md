@@ -136,6 +136,9 @@ Assigned: Assignment 3 -- Replicating a Classic Experiment
 ### 25-Feb Thu   
 Topic: Color Lab (Redesign)
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EXGZ9MWjQZZFrVRLMgG8jN8B0Vr9etV4WaBbEcoC7jTedA?e=7BKgE8)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ESM_Mg7kYnJDlXEf-yELZX4BnEgtwGhlX-y424-eh51n9Q?e=QOMgGt)  
+
 ### 26-Feb Fri   
 Due: Assignment 2 -- 11:59pm   
 
