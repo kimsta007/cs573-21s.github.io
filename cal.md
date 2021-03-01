@@ -151,6 +151,9 @@ Reading: VAD Chapters 5, 10
 ### 01-Mar Mon   
 Topic: Visual Channels   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EUjKM4gXcOJBsM0yUfFEcJ8BbGtaeSCcgoHD2GtPLUXRVg?e=LlU5RS)  
+[Slides](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EUjKM4gXcOJBsM0yUfFEcJ8BbGtaeSCcgoHD2GtPLUXRVg?e=LlU5RS)  
+
 ### 04-Mar Thu   
 Topic: Visual Channels 2 / Lab   
 
