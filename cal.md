@@ -157,6 +157,8 @@ Topic: Visual Channels
 ### 04-Mar Thu   
 Topic: Visual Channels 2 / Lab   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EaKYqtLZlwdLsJ2TdvqPBJ0B95UzR0Rk_d0EtSF-k9GBNg?e=dvZ8q4)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/ETXnpN0eZTJOqufMwLd396ABIc0_SvoxeD_voekTGHZgBQ?e=ItBBOI)  
 
 
 
