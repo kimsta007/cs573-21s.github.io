@@ -172,6 +172,11 @@ Topic: Visualizing Tabular Data
 ### 11-Mar Thu   
 Topic: Visualizing Tabular Data 2 / Lab   
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/Ebc20-Aj-ktIi17odUrMpnoB5t0oA1fdmvfSkWWKKAelQw?e=y4wMvK)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EXI9vXNZ5alKgYS7frgjAuQBZkACjlz3005ITj4ilkuNVQ?e=PdGqmw)  
+[R code for 95% CIs](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EWBeLY1nm-RHkQw_Y2Xo64AB80DfRt8uF4PgrySjBXOxvQ?e=YHN7C2)  
+[Video for R Code (from another class)](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ES2yyfHZ-thIoDeTiYYkzJcBoNhHowt-5FOUH-cCblzA-g?e=ygaJx1)  
+
 
 
 ## Week 7 (Mar 15 - 19)   
