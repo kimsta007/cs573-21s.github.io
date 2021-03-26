@@ -183,7 +183,7 @@ Topic: Visualizing Tabular Data 2 / Lab
 Reading: VAD Chapters 8
 
 ### 15-Mar Mon   
-Topic: Visualizing Spatial Data  
+Topic: (Moved)  
 Assigned: Assignment 4 -- Multiple Views Visualization    
 
 ### 18-Mar Thu   
@@ -203,12 +203,18 @@ Reading: VAD Chapter 9
 NO CLASS! Spring break
 
 ### 24-Mar Wed (Fake Monday)   
-Topic: Visualizing Networks  
+Topic: Visualizing Spatial Data  
 Assigned: Final Project     
 
-### 25-Mar Thu   
-Topic: Networks Lab  
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EVLTIzPJvcJOvMuHkXqqeWQBypmTZTgIqmCWVidxAhgLJw?e=RSpYmo)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EeiaR_6kM4pGqfZUUpaWCucBOX1_gt-JVI1jgLcSU4Lt4w?e=BitcRn)  
 
+### 25-Mar Thu   
+Topic: Visualizing Networks  
+
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EROECpT2xzlKsY9YAouPK4IB8TNyCqI2RrIp4EyJNpCyTw?e=gavAoE)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EYK1uoNVw5JEvgR57c0fZmUBCL5L6y16Hbb7cLiwn8bsHw?e=kpJwK9)  
 
 
 
@@ -221,7 +227,7 @@ Topic: Visualizing Hierarchies / Trees
 
 
 ### 01-Apr Thu   
-Topic: Trees/Hiearchical vis Lab  
+Topic: Networks Lab & Trees/Hiearchical vis Lab  
 
 ### 02-Apr Fri   
 Due: Final Project Idea Survey
