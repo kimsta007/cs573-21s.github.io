@@ -225,6 +225,9 @@ Reading: VAD Chapter 9
 ### 29-Mar Mon   
 Topic: Visualizing Hierarchies / Trees  
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/ERF9A6DmYodCv24OGBhXbhMBpXqAweJdjNyWKyCXnU_hfw?e=pM5unB)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EQNafNYRn4FIoE1GRaStVwUB-jm4s4vlC2wecZpUc-9x9A?e=Fln7BO)  
+
 
 ### 01-Apr Thu   
 Topic: Networks Lab & Trees/Hiearchical vis Lab  
