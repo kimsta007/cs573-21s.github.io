@@ -262,7 +262,6 @@ Topic: Evaluation 2
 Due: Project Ideas via Google Forms
 
 ### 16-Apr Fri
-Due: Assignment 4 -- 11:59pm   
 Due: Final Project Team Prospectus
 
 
