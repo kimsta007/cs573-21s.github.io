@@ -232,9 +232,6 @@ Topic: Visualizing Hierarchies / Trees
 ### 01-Apr Thu   
 Topic: Networks Lab & Trees/Hiearchical vis Lab  
 
-### 02-Apr Fri   
-Due: Final Project Idea Survey
-
 
 ## Week 10 (Apr 05 - 09)   
 Reading: VAD Chapters 11, 12  
@@ -242,10 +239,10 @@ Reading: VAD Chapters 11, 12
 
 ### 05-Apr Mon
 Topic: Interaction   
+Due: Final Project Idea Survey
 
 ### 08-Apr Thu
 Topic: Interaction Lab   
-
 
 
 
