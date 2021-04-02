@@ -230,7 +230,10 @@ Topic: Visualizing Hierarchies / Trees
 
 
 ### 01-Apr Thu   
-Topic: Networks Lab & Trees/Hiearchical vis Lab  
+Topic: Networks Lab / Maps Lab  
+
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EWi0vEXWKaFDvy7yWceFZlIB6P7xHC3ME75IDnbTc7KXRA?e=dqHR2Q)  
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/ES4hJZNUx5xAhWXxgJ0W-3MBCfsB8TtuY41o_Bbc1UL-DQ?e=iGqdCU)  
 
 
 ## Week 10 (Apr 05 - 09)   
