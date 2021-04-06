@@ -244,6 +244,9 @@ Reading: VAD Chapters 11, 12
 Topic: Interaction   
 Due: Final Project Idea Survey
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EU26susKYmRPnZS_S-WCCJ8Bdu1-wT6PuhYoadHsHp2QEg?e=32POBI)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EeSVYMdRdq1HsdiEr-gh-SkBzvxVRje9qXCce456uhCOeQ?e=mecfkT)  
+
 ### 08-Apr Thu
 Topic: Interaction Lab   
 
