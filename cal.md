@@ -251,6 +251,10 @@ Due: Final Project Idea Survey
 Topic: Interaction Lab   
 
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EeDQ6EGhrK5HpZiULLg6tAoBFBl1bnc3LBU9wiheWmIX6g?e=6RkyCp)  
+[Code](https://wpi0-my.sharepoint.com/:u:/g/personal/ltharrison_wpi_edu/EU7H5kIIhOFHpcNcYQKnZtkBsnm2qfGs2n341afGQl33nA?e=bsoyT1)  
+
+
 
 ## Week 11 (Apr 12 - 16)   
 Reading: VAD Chapter 15  
