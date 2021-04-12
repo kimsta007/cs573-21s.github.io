@@ -264,6 +264,9 @@ Reading:
 ### 12-Apr Mon
 Topic: Evaluation  
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/Ecykt9GawABJu8mmqWvVlYYB11P6KZUroEEeWmV5ZpDjXA?e=IBLbTX)  
+[Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/Edrjau8WskFIlC-bBZx63WkBK761CELA6F_0gtUVndhgmA?e=cGYUMP)  
+
 ### 15-Apr Thu
 Topic: Evaluation 2  
 
