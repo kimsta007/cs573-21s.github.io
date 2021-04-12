@@ -266,7 +266,6 @@ Topic: Evaluation
 
 ### 15-Apr Thu
 Topic: Evaluation 2  
-Due: Project Ideas via Google Forms
 
 ### 16-Apr Fri
 Due: Final Project Team Prospectus
