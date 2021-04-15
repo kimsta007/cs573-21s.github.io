@@ -270,6 +270,8 @@ Topic: Evaluation
 ### 15-Apr Thu
 Topic: Evaluation 2  
 
+[Video](https://wpi0-my.sharepoint.com/:v:/g/personal/ltharrison_wpi_edu/EdVtq9jWzJhIiqf1nvGzmfYB74LF3jz7tQJvFD-xzms88g?e=HEESyb)  
+
 ### 16-Apr Fri
 Due: Final Project Team Prospectus
 
@@ -277,7 +279,7 @@ Due: Final Project Team Prospectus
 ## Week 12 (Apr 19 - 23)   
 
 ### 19-Apr Mon
-Topic:  A4 Workday   
+NO CLASS! Patriot's Day Holiday  
 
 ### 22-Apr Thu
 Topic:  A4 Workday   
