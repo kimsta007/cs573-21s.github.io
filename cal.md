@@ -295,7 +295,6 @@ Due: Assignment 4 -- 11:59pm
 
 ### 26-Apr Mon
 Topic: Adv Topics 1   
-Due: Prospectus
 
 ### 29-Apr Thu
 Topic: Final Project Checkin   
