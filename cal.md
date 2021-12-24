@@ -185,7 +185,6 @@ Topic: Visualizing Networks
 [Slides](https://wpi0-my.sharepoint.com/:b:/g/personal/ltharrison_wpi_edu/EYK1uoNVw5JEvgR57c0fZmUBCL5L6y16Hbb7cLiwn8bsHw?e=kpJwK9)  
 
 ## Week 10 (Mar 21 - 25)   
-Reading: VAD Chapter 9  
 
 ### 21-Mar Mon   
 Topic: Visualizing Hierarchies / Trees  
